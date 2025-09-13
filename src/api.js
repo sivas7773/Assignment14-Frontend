@@ -1,1 +1,1 @@
-export const baseUrl="http://localhost:8080"
+export const baseUrl="https://assignment14-backend-gdiz.onrender.com"
